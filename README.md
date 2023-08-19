@@ -1,1 +1,1 @@
-# Administrador de Citas de Pacientes con Vue.js, Tailwind CSS y Vite
+Proyecto realizado con Vue.js y Tailwind CSS
